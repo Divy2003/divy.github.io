@@ -63,6 +63,11 @@ html {
     padding: 6px 10px;
     vertical-align: middle;
 }
+.btn-last{padding: 10px 16px;
+    vertical-align: middle;
+    margin: auto;
+        display: flex;
+}
 
 .background {
     background: rgba(0, 0, 0, 0.7) url(images/background.jpg);
@@ -288,6 +293,10 @@ html {
 
     .btn-sm {
         display: none;
+    }
+    .btn-last{
+        margin: auto;
+        display: flex;
     }
 
     .paras {
