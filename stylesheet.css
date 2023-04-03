@@ -78,9 +78,11 @@ html {
 .firstsection {
     height: 100vh;
 }
+
 .firstbox{
     color: white;
-    font-size: 150%;}
+    font-size: 150%;
+}
 .box-main {
     display: flex;
     justify-content: center;
