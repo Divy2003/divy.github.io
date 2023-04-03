@@ -1,5 +1,5 @@
 
-
+alert("hello,this is divy patel's website");
 let burger = document.querySelector('.burger')
  navToogler = document.querySelector('.navbar')
  rightnav = document.querySelector('.rightnav')
