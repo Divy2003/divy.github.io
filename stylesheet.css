@@ -79,10 +79,6 @@ html {
     height: 100vh;
 }
 
-.firstbox{
-    color: white;
-    font-size: 150%;
-}
 .box-main {
     display: flex;
     justify-content: center;
@@ -245,10 +241,7 @@ html {
     .rightnav {
         text-align: center;
     }
-    .firstbox{
-    color: white;
-    font-size: 150%;
-    }
+
 
     .box-main {
         flex-direction: column-reverse;
